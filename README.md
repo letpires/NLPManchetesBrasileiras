@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/banner_projeto_final.png" >
+  <img src="https://github.com/letpires/nlp_manchetes_brasileiras/blob/main/Banners_bootcamp.png" >
 </p>
 
 <h2 align="center">
