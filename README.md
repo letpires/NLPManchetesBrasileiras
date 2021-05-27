@@ -13,6 +13,8 @@
 <p align="center">
     <img alt="Numpy" src="https://img.shields.io/badge/numpy-1.20.0-blue">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1.2.3-yellow">
+    <img alt="Gensim" src="https://img.shields.io/badge/gensim-3.8.1-red">
+    <img alt="NLTK" src="https://img.shields.io/badge/NLTK-3.6.2-blueviolet">
     
 
    </a>
@@ -21,11 +23,16 @@
 ## 📄 Estrutura do repositório
 
 - Veja os dados utilizados [MANCHETES BRASILEIRAS](https://github.com/letpires/nlp_manchetes_brasileiras/blob/main/manchetesBrasildatabase.csv);
-- Leia o notebook do projeto [IMPLEMENTANDO MODELOS DE ML NA COVID 19](https://github.com/letpires/ICU_prediction_sirio_libanes/blob/main/Leticia_Pires.ipynb).
+- Leia o notebook do projeto [IMPLEMENTANDO O MODELO LDA PARA MODELAGEM DE TÓPICOS EM PYTHON](https://github.com/letpires/nlp_manchetes_brasileiras/blob/main/topic_modelling.ipynb).
 
 ## ⚠️ Contexto
 
-A pandemia de COVID-19 atingiu o mundo inteiro, sobrecarregando os sistemas de saúde - despreparados para uma solicitação tão intensa e demorada de leitos de UTI, profissionais, equipamentos de proteção individual e recursos de saúde. Países como o Brasila, que já possui sistema de saúde superlotados, vem sofrendo com a falta de leitos de Unidade de Terapia Intensiva (UTI) na internação de seus pacientes. Isso já aconteceu e vem acontecendo em alguns estados do Brasil, como Amazonas ([link da matéria](https://g1.globo.com/am/amazonas/noticia/2021/01/14/secretario-de-saude-do-am-fala-que-estado-vive-colapso-do-plano-logistico.ghtml)), onde pacientes não estão mais conseguindo acesso a UTI, assim como não possuem equipamentos básicos para a manutenção de vida, como oxigênio. Em Santa Catarina também o estado é crítico, onde os hospitais de Blumenau já anunciaram triagem para internação de acordo com a chance de sobreviver ([link da matéria](http://g1.globo.com/sc/santa-catarina/videos/v/hospitais-de-blumenau-anunciam-triagem-para-internacao-de-acordo-com-chance-de-sobreviver/9355080/)). Com base nesses acontecimentos e até mesmo na prevenção de sobrecarga do sistema de saúde das redes privadas, o Hospital Sírio-Libanês, busca prevenir e até mesmo predizer, com base em dados clínicos de seus pacientes, conforme forem sendo admitidos no ambiente hospitalar, a necessidade ou não de internação nas UTIs nas próximas horas. A proposta feita pelo Hospital Sírio Libanês está disposta [nesse link do Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19).
+A modelagem de tópicos é um método que extrai tópicos ocultos de grandes volumes de texto. Ela utiliza as aplicações do processamento de linguagem natural para extrair os tópicos que as pessoas estão mais discutindo, dentre os volumes de texto apresentados.
+
+E o modelo Latent Dirichlet Allocation (LDA) é um algoritmo utilizado para modelagem de tópicos que tem implementações no pacote Gensim do Python.
+
+Esse processo é bem importante para as empresas que querem criar estratégias de monetização e melhoria de serviços, por exemplo, seja analisando avaliações de clientes, feedbacks de usuários, notícias, redes sociais, etc.
+
 
 
 ## 🚀 Tecnologias 
