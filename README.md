@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/letpires/nlp_manchetes_brasileiras/blob/main/Banners_bootcamp.png" >
+  <img src="https://github.com/letpires/nlp_manchetes_brasileiras/blob/main/LDA.png" >
 </p>
 
 <h2 align="center">
